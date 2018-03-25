@@ -26,10 +26,18 @@
 
 # Books
 
+- [Computer Science:   An Interdisciplinary Approach](https://introcs.cs.princeton.edu/java/home/)
+- [Introduction to Programming in Python](https://introcs.cs.princeton.edu/python/home/)
 - [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/)
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
+- [The C Programming Language](http://cs.indstate.edu/~cbasavaraj/cs559/the_c_programming_language_2.pdf)
 
 # Career
 
 ### Interviewing
 
+-[Interviewing.io](https://interviewing.io/)
+
 ### Code Challenge
+
+- [HackerRank](https://www.hackerrank.com/)
