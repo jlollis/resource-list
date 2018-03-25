@@ -22,7 +22,8 @@
 # Archived Courses
 
 - [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/syllabus/)
-
+- [SQL](https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/courseware/3d4b35a7e27b48d99f190cdcfcb40db8/fae22ef7ef60467f94b8f7b6f0220a4f/)
+- [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/info)
 
 # Books
 
