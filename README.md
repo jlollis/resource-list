@@ -1,4 +1,4 @@
-<span style="display:block;text-align:center">![Computer Science Resources List](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGMnZuvVzPSpONsL5cMTJK_2eqAy9tCvRlsRR5twPo95pCjZp7)</span>
+<span style="display:block;text-align:center">![Computer Science Resources List](https://matt.blissett.me.uk/programming/haskell/lsystem/system-9.png)</span>
 
 <h3 align="center">Computer Science Resources List</h3>
 <p align="center">
