@@ -33,7 +33,7 @@
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 - [The C Programming Language](http://cs.indstate.edu/~cbasavaraj/cs559/the_c_programming_language_2.pdf)
 
-# Career
+# Practice
 
 ### Interviewing
 
